@@ -4,7 +4,7 @@ Simple bot for [friv's house painter](https://www.friv.com/z/games/housepainter/
 Commented out part is responsible for starting next level(it's commented out cause you have to customize it for your device)
 
 ## How to run it
-Install autohotkey(unfortunately available only for windows) and click my code two times.
+Install [autohotkey](https://www.autohotkey.com/) (unfortunately available only for windows) and click my code two times.
 You start the bot with `Ctrl`+`Win`+`Z` and stop with `Pause/Break`
 
 ## Customizing next level part
